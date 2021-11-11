@@ -1,2 +1,2 @@
 # sample-app
-Explore CI/CD with GitHub and Jenkins on brans master
+Explore CI/CD with GitHub and Jenkins on branch master
